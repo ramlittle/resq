@@ -1,0 +1,25 @@
+.reg-col-1 {
+    width: 50%;
+  }
+  .reg-container {
+    width: 50%;
+  }
+  /* MOBILE SCREEN */
+  @media only screen and (max-width: 600px) {
+    .reg-col-1 {
+      width: 100%;
+    }
+    .reg-container {
+      width: 75%;
+    }
+  }
+  /* TABLET SCREEN */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .reg-col-1 {
+      width: 75%;
+    }
+    .reg-container {
+      width: 75%;
+    }
+  }
+  

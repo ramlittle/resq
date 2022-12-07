@@ -1,0 +1,16 @@
+.header {
+  background-color: #a61414;
+  color: white;
+}
+
+table {
+  border: none;
+}
+
+.response-header {
+  font-weight: bold;
+}
+
+.respond-body {
+  background-color: #e3dac9;
+}

@@ -1,0 +1,18 @@
+.table__container {
+  background-color: #E3DAC9;
+  width: 100%;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+a {
+  color: black;
+}
+
+.hotline-body {
+  background-color: #E3DAC9;
+}
